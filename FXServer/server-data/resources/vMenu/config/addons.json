@@ -1,0 +1,15 @@
+{
+  "vehicles": [
+    "addonvehiclename1",
+    "addonvehiclename2"
+  ],
+  "peds": [
+    "Lana",
+    "MaiT",
+    "Sam"
+  ],
+  "weapons": [
+    "addonweaponname1",
+    "addonweaponname2"
+  ]
+}

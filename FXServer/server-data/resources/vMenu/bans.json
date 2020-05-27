@@ -1,0 +1,28 @@
+[
+  {
+    "playerName": "Pernek",
+    "identifiers": [
+      "steam:11000013f6ce99a",
+      "license:9efc7ab4719b6494da9af57fc0ab06dc5f81c1f6",
+      "xbl:2535426937749309",
+      "live:1055521821476204",
+      "discord:536535284662272000",
+      "ip:91.232.87.160"
+    ],
+    "bannedUntil": "3000-01-01T00:00:00",
+    "banReason": "Cheating",
+    "bannedBy": "Honza_X"
+  },
+  {
+    "playerName": "A1damkq",
+    "identifiers": [
+      "steam:11000011aa7883e",
+      "license:fcd93be20afb479b80de5b8fc35052ccd065141b",
+      "discord:582637850739212288",
+      "ip:92.245.202.224"
+    ],
+    "bannedUntil": "2020-05-19T15:19:10.374635+02:00",
+    "banReason": "Urazeni AT , Honza_X",
+    "bannedBy": "Honza_X"
+  }
+]
