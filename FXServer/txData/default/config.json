@@ -1,0 +1,32 @@
+{
+  "global": {
+    "serverName": "FreedomRP",
+    "language": "en"
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": [],
+    "heartBeat": {
+      "failThreshold": 15,
+      "failLimit": 30
+    },
+    "healthCheck": {
+      "failThreshold": 15,
+      "failLimit": 300
+    }
+  },
+  "authenticator": {},
+  "webServer": {},
+  "discordBot": {
+    "enabled": false,
+    "statusCommand": "/status",
+    "statusMessage": "**IP:** `change-me:<port>`\n**Players:** <players>\n**Uptime:** <uptime>"
+  },
+  "fxRunner": {
+    "onesync": false,
+    "autostart": false,
+    "quiet": false,
+    "serverDataPath": "C:/FXServer/server-data/",
+    "cfgPath": "C:/FXServer/server-data/server.cfg"
+  }
+}

@@ -1,0 +1,369 @@
+# Only change the IP if you're using a server with multiple network interfaces, otherwise change the port only.
+endpoint_add_tcp "0.0.0.0:30120"
+endpoint_add_udp "0.0.0.0:30120"
+
+#DATABASE
+set mysql_connection_string "server=49.12.111.184;database=essentialmode;userid=root;password="
+set es_enableCustomData 1
+
+exec permissions.cfg
+
+setr ea_LanguageName "en"                # set our language to english
+setr ea_MenuButton "178"			# set our menu button to F2. default: "289"
+setr ea_alwaysShowButtons "false"	# we don't want to see buttons we can't even access, do we? default: "false"
+set ea_moderationNotification "false"   # this can be either "false" or a discord webhook address, this will send a discord message if an admin takes actions against a player  ( such as banning and kicking )
+set ea_custombanlist "false"            # read docs for this, dont touch it
+set ea_enableCallAdminCommand "true"
+set ea_enableReportCommand "true"
+
+
+
+
+# These resources will start by default.
+ensure mapmanager
+ensure chat
+ensure spawnmanager
+ensure clientmanager
+ensure sessionmanager
+ensure fivem
+ensure hardcap
+ensure rconlog
+ensure bob74_ipl
+ensure tokovoip_script
+ensure pvp
+ensure carhud
+ensure time
+ensure vMenu
+start vSync
+
+ensure coordsaver
+
+ensure mysql-async
+ensure essentialmode
+ensure fxmigrant
+ensure esplugin_mysql
+ensure es_extended
+
+ensure el_bwh
+ensure es_admincmds
+ensure es_camera
+ensure pdstanice
+
+ensure esx_menu_default
+ensure esx_menu_list
+ensure esx_menu_dialog
+ensure es_ui 
+
+ensure esx_addons_gcphone
+ensure gcphone
+start phone
+
+
+ensure cron
+ensure esx_identity
+ensure skinchanger
+ensure esx_skin
+start instance
+
+
+ensure esx_addonaccount
+ensure esx_addoninventory
+ensure esx_datastore
+ensure esx_society
+ensure esx_service
+ensure esx_billing
+ensure esx_license
+ensure esx_showcommands
+ensure mythic_notify
+ensure trew_hud_ui2
+
+ensure freedom_ls
+start esx_rpchat
+
+ensure bennysmap
+ensure cinema
+ensure davetest
+ensure davetest2
+ensure festival
+ensure jewel
+ensure mceys
+ensure missionrowgates
+ensure pablito_restauracja
+ensure pablito_taco
+ensure ribbench
+ensure ribcardealer
+ensure ribjail
+ensure ribrig
+ensure SLBK11_MissionRow
+ensure pillboxup-mlo
+ensure vine
+ensure nobarrier
+ensure pawn
+ensure banner_anim
+ensure marabunta
+ensure ribpd
+ensure taxioffice
+ensure usedcarsmap
+ensure ballas
+ensure RIBspiceden
+ensure legionsign
+ensure ribfed
+ensure rib_pack
+ensure secret
+ensure nhs
+ensure streetLabel
+
+ensure esx_status
+ensure esx_basicneeds
+
+ensure esx_shops
+ensure esx_weaponshops
+
+ensure esx_jobs
+ensure esx_joblisting
+ensure esx_scoreboard
+ensure esx_barbershop
+
+ensure esx_policejob
+ensure esx_vehicleshop
+ensure esx_ambulancejob
+ensure esx_mechanicjob
+
+ensure esx_advancedgarage
+ensure ls-radio
+
+ensure pNotify
+ensure honza_notify
+
+start disc-inventoryhud
+
+start mdt
+
+ensure locking
+ensure norewards
+ensure gd_airport_ai_begone
+
+ensure PoliceVehiclesWeaponDeleter
+ensure 3dme
+ensure burglary
+ensure CarryPeople
+ensure clothes
+ensure ChairBedSystem
+ensure club-stuff
+ensure coffees
+ensure damages
+ensure donut
+ensure dpemotes
+ensure eup-stream
+ensure eup-ui
+ensure fireworks
+ensure fivem-speedometer-master
+ensure flashingheadlights
+ensure frfuel
+ensure handsup
+ensure hideintrunk
+ensure houseRobberies
+ensure hypnonema
+ensure idoverhead
+ensure injury
+ensure new_banking
+ensure jsfour-idcard
+ensure jsfour-licenseplate
+ensure Lenzh_chopshop
+ensure lux_vehcontrol
+ensure lv_headlights
+ensure maccies
+ensure NativeUI
+ensure neontoggle
+ensure pedDensity
+ensure peds
+ensure PiggyBack
+ensure RealisticVehicleFailure
+ensure rollcoal
+ensure sawu_hookers
+ensure seatShuffle
+ensure Sil-2Step
+ensure smoke
+ensure t0sic_loadingbar
+ensure taxi-master
+ensure threatbar
+ensure TKCharger18
+ensure tp
+ensure tuner_laptop
+ensure vehiclecmds
+ensure VehicleExtraMenu
+ensure vSync
+ensure weaponry
+ensure bmamas
+ensure hat
+ensure pointing
+ensure puton
+ensure wk_wrs
+ensure seatbelt
+ensure rs3
+
+ensure cars
+ensure ambulance
+
+
+start cityhall
+start wnews
+
+
+ensure mumble-voip
+
+
+ensure esx_AdvancedFishing
+ensure esx_accessories
+ensure esx_advert
+ensure esx_Armour
+ensure esx_bennys
+ensure esx_carwash
+ensure esx_clotheshop
+ensure esx_communityservice
+ensure esx_criminalrecords
+ensure esx_detector
+ensure esx_detector_prison
+ensure esx_dmvschool
+ensure esx_doorlock
+ensure esx_drugs
+ensure esx_duty
+ensure esx_extraitems
+ensure esx_GoldDig
+ensure esx_holdup
+ensure esx_holdupbank
+ensure esx_Krowa
+ensure esx_ktackle
+ensure esx_lscustom
+ensure esx_moneywash
+ensure esx_outlawalert
+ensure esx_pawn
+ensure esx_plasticsurgery
+ensure esx_qallejail
+ensure esx_ruskiarrest
+ensure esx_SellGold
+ensure esx_sit
+ensure esx_tattoosShops
+ensure esx_taxijob
+ensure esx_thief
+ensure esx_tpm
+ensure esx_vangelico_robbery
+ensure esx_vangelico_robbery2
+ensure esx_vinerob
+ensure esx_yacht
+ensure esx-qalle-sellvehicles
+ensure esx_med
+ensure esx_mafia
+ensure kr_pushvehicle
+ensure npc_car_aim_flee
+ensure dice
+ensure hotdog
+ensure tardspack
+
+ensure fax-logo
+ensure togglehud
+ensure interactsound
+ensure progressBars
+ensure outfit
+ensure ChangingRooms
+ensure chopshop
+ensure bison # mech comp veh
+ensure caddy # mech comp veh
+
+ensure jack_pack
+ensure jack_pack2
+ensure jack_pack3
+ensure jack_pack4
+ensure jack_pack5
+ensure oz_cars
+ensure speedycab
+
+ensure casino_pack1
+ensure casino_pack2
+ensure casino_pack3
+ensure casino_pack4
+ensure casino_pack5
+ensure casino_anims
+ensure casino_vehsounds
+ensure casino_vehsounds2
+
+ensure RichPresence
+
+
+ensure wash
+start vespucci
+
+start police2
+
+start policeels
+start policecars
+start esx_bike-rental
+start esx_invest
+start heli
+
+# This allows players to use scripthook-based plugins such as the legacy Lambda Menu.
+# Set this to 1 to allow scripthook. Do note that this does _not_ guarantee players won't be able to use external plugins.
+sv_scriptHookAllowed 0
+
+# Uncomment this and set a password to enable RCON. Make sure to change the password - it should look like rcon_password "YOURPASSWORD"
+#rcon_password ""
+
+# A comma-separated list of tags for your server.
+# For example:
+# - sets tags "drifting, cars, racing"
+# Or:
+# - sets tags "roleplay, military, tanks"
+sets tags "default"
+
+# A valid locale identifier for your server's primary language.
+# For example "en-US", "fr-CA", "nl-NL", "de-DE", "en-GB", "pt-BR"
+sets locale "cz-CS" 
+# please DO replace root-AQ on the line ABOVE with a real language! :)
+
+# Set an optional server info and connecting banner image url.
+# Size doesn't matter, any banner sized image will be fine.
+#sets banner_detail "https://url.to/image.png"
+#sets banner_connecting "https://url.to/image.png"
+
+# Set your server's hostname
+sv_hostname "[^1CZ^0/^4SK^0] ^3Freedom ^6RolePlay BETA TESTING ^8Kvalitni A-Team ^5discord.gg/yMfzpgQ"
+
+# Nested configs!
+#exec server_internal.cfg
+
+# Loading a server icon (96x96 PNG file)
+load_server_icon "myLogo.png"
+
+# convars which can be used in scripts
+set temp_convar "hey world!"
+
+# Uncomment this line if you do not want your server to be listed in the server browser.
+# Do not edit it if you *do* want your server listed.
+#sv_master1 ""
+
+# Add system admins
+add_ace group.admin command allow # allow all commands
+add_ace group.admin command.quit deny # but don't allow quit
+add_ace group.admin easyadmin allow
+add_principal identifier.license:dbeb3e7e31fe668b6c63bcea96cc4c09519fcd4d group.admin # add the admin to the group
+add_principal identifier.license:b2e61faa40b22864be1664bb23ab2086c49a9046 group.superadmin # add the superadmin to the group
+add_ace resource.essentialmode command.sets allow
+add_ace resource.essentialmode command.add_principal allow
+add_ace resource.essentialmode command.add_ace allow
+
+# Hide player endpoints in external log output.
+sv_endpointprivacy true
+
+# enable OneSync with default configuration (required for server-side state awareness)
+onesync_enabled false
+
+# Server player slot limit (must be between 1 and 32, unless using OneSync)
+sv_maxclients 32
+
+# Steam Web API key, if you want to use Steam authentication (https://steamcommunity.com/dev/apikey)
+# -> replace "" with the key
+set steam_webApiKey "2EB72F3D38AD6F0A2DDAC4D35CB60B26"
+
+# License key for your server (https://keymaster.fivem.net)
+sv_licenseKey b5vd0gp3nfrs1zk67i4o2fj7vu27veqa
+

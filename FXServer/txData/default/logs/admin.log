@@ -1,0 +1,865 @@
+
+================================================================
+======== txAdmin starting - 5/20/2020, 4:18:49 AM
+================================================================
+
+================================================================
+======== txAdmin starting - 5/20/2020, 4:22:46 AM
+================================================================
+[04:23:56][81.92.252.25][Bejniss] Changing global/fxserver settings via welcome stepper.
+[04:25:05][81.92.252.25][Bejniss] STOP SERVER
+[04:25:07][81.92.252.25][Bejniss] START SERVER
+[04:34:35][81.92.252.25][Bejniss] Adding admin 'Benikjebest'.
+
+================================================================
+======== txAdmin starting - 5/20/2020, 4:47:29 AM
+================================================================
+[04:47:49][81.92.252.25][Bejniss] RESTART SERVER
+[04:49:43][178.255.168.94][Benikjebest] Changing own password.
+[04:53:00][81.92.252.25][Bejniss] ensure "kokot"
+[04:53:13][81.92.252.25][Bejniss] start audi
+[04:53:14][81.92.252.25][Bejniss] 
+[04:53:14][81.92.252.25][Bejniss] 
+[04:53:15][81.92.252.25][Bejniss] 
+[04:53:16][81.92.252.25][Bejniss] 
+[04:53:16][81.92.252.25][Bejniss] 
+[04:53:16][81.92.252.25][Bejniss] 
+
+================================================================
+======== txAdmin starting - 5/20/2020, 6:30:03 AM
+================================================================
+[06:31:23][81.92.252.25][Bejniss] START SERVER
+[06:32:04][81.92.252.25][Bejniss] STOP SERVER
+[06:32:15][81.92.252.25][Bejniss] START SERVER
+[06:43:01][178.255.168.94][Benikjebest] RESTART SERVER
+[06:47:17][178.255.168.94][Benikjebest] RESTART SERVER
+[06:49:44][178.255.168.94][Benikjebest] RESTART SERVER
+[06:50:24][178.255.168.94][Benikjebest] RESTART SERVER
+[06:51:08][178.255.168.94][Benikjebest] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 5/20/2020, 6:56:20 AM
+================================================================
+[07:08:18][178.255.168.94][Benikjebest] RESTART SERVER
+[07:10:29][81.92.252.25][Bejniss] refresh
+[07:10:37][81.92.252.25][Bejniss] exec permissions.cfg
+[07:10:45][81.92.252.25][Bejniss] refresh
+[07:11:25][81.92.252.25][Bejniss] Editing server CFG File.
+[07:11:29][81.92.252.25][Bejniss] RESTART SERVER
+[07:11:49][178.255.168.94][Benikjebest] RESTART SERVER
+[07:32:08][178.255.168.94][Benikjebest] RESTART SERVER
+[07:36:51][178.255.168.94][Benikjebest] RESTART SERVER
+[07:42:27][178.255.168.94][Benikjebest] RESTART SERVER
+[07:45:31][178.255.168.94][Benikjebest] STOP SERVER
+[07:51:41][178.255.168.94][Benikjebest] START SERVER
+[07:51:55][178.255.168.94][Benikjebest] RESTART SERVER
+[07:56:53][81.92.252.25][Bejniss] RESTART SERVER
+[07:58:54][81.92.252.25][Bejniss] RESTART SERVER
+[08:08:46][81.92.252.25][Bejniss] STOP SERVER
+[08:09:22][81.92.252.25][Bejniss] Editing server CFG File.
+[08:19:04][81.92.252.25][Bejniss] Editing server CFG File.
+[08:19:34][81.92.252.25][Bejniss] Editing server CFG File.
+[08:19:54][81.92.252.25][Bejniss] START SERVER
+[08:27:05][178.255.168.94][Benikjebest] RESTART SERVER
+[08:28:10][81.92.252.25][Bejniss] Editing server CFG File.
+[08:28:13][81.92.252.25][Bejniss] RESTART SERVER
+[08:29:21][81.92.252.25][Bejniss] Editing server CFG File.
+[08:29:25][81.92.252.25][Bejniss] RESTART SERVER
+[08:34:57][81.92.252.25][Bejniss] RESTART SERVER
+[08:37:48][81.92.252.25][Bejniss] RESTART SERVER
+[08:39:44][81.92.252.25][Bejniss] refresh
+[08:39:51][81.92.252.25][Bejniss] start essentialmode
+[08:39:57][81.92.252.25][Bejniss] start es_admin2
+[08:40:35][81.92.252.25][Bejniss] Editing server CFG File.
+[08:40:38][81.92.252.25][Bejniss] RESTART SERVER
+[08:43:33][81.92.252.25][Bejniss] Editing server CFG File.
+[08:43:37][81.92.252.25][Bejniss] RESTART SERVER
+[08:46:20][81.92.252.25][Bejniss] set admin 1
+[08:47:53][81.92.252.25][Bejniss] RESTART SERVER
+[08:49:09][81.92.252.25][Bejniss] setgroup 1 superadmin
+[08:55:04][81.92.252.25][Bejniss] RESTART SERVER
+[08:56:17][81.92.252.25][Bejniss] setgroup 1 superadmin
+[09:00:38][178.255.168.94][Benikjebest] RESTART SERVER
+[09:00:50][178.255.168.94][Benikjebest] STOP SERVER
+[10:22:47][178.255.168.94][Benikjebest] RESTART SERVER
+[10:24:21][178.255.168.94][Benikjebest] STOP SERVER
+[10:24:23][178.255.168.94][Benikjebest] START SERVER
+[10:39:48][178.255.168.94][Benikjebest] RESTART SERVER
+[10:45:37][178.255.168.94][Benikjebest] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 5/20/2020, 11:17:50 AM
+================================================================
+
+================================================================
+======== txAdmin starting - 5/20/2020, 11:24:16 AM
+================================================================
+[11:24:40][81.92.252.25][Bejniss] RESTART SERVER
+[11:24:56][81.92.252.25][Bejniss] STOP SERVER
+[11:25:00][81.92.252.25][Bejniss] START SERVER
+[11:39:07][178.255.168.94][Benikjebest] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 5/20/2020, 11:49:07 AM
+================================================================
+[11:49:22][81.92.252.25][Bejniss] START SERVER
+[11:49:42][81.92.252.25][Bejniss] RESTART SERVER
+[11:55:17][81.92.252.25][Bejniss] setgroup 1 superadmin
+[11:55:26][81.92.252.25][Bejniss] setadmin 1 superadmin
+[11:55:34][81.92.252.25][Bejniss] set 1 superadmin
+
+================================================================
+======== txAdmin starting - 5/20/2020, 1:14:39 PM
+================================================================
+[00:32:48][81.92.252.25][Bejniss] START SERVER
+[00:37:37][81.92.252.25][Bejniss] RESTART SERVER
+[00:42:25][81.92.252.25][Bejniss] RESTART SERVER
+[01:23:39][81.92.252.25][Bejniss] RESTART SERVER
+[01:51:02][81.92.252.25][Bejniss] ensure "esx_addons_gcphone"
+[01:51:02][81.92.252.25][Bejniss] ensure "gcphone"
+[01:59:20][81.92.252.25][Bejniss] ensure "esx_addons_gcphone"
+[01:59:21][81.92.252.25][Bejniss] ensure "gcphone"
+[02:01:14][81.92.252.25][Bejniss] RESTART SERVER
+[02:11:47][81.92.252.25][Bejniss] RESTART SERVER
+[02:13:39][81.92.252.25][Bejniss] RESTART SERVER
+[02:13:47][81.92.252.25][Bejniss] STOP SERVER
+[02:14:01][81.92.252.25][Bejniss] START SERVER
+[02:19:54][81.92.252.25][Bejniss] RESTART SERVER
+[02:35:46][81.92.252.25][Bejniss] RESTART SERVER
+[02:46:07][81.92.252.25][Bejniss] RESTART SERVER
+[02:53:47][81.92.252.25][Bejniss] RESTART SERVER
+[03:07:30][81.92.252.25][Bejniss] RESTART SERVER
+[03:09:23][81.92.252.25][Bejniss] txaSendDM "1" "Bejniss" "cc"
+[03:09:38][81.92.252.25][Bejniss] txaSendDM "1" "Bejniss" "cc mam ta rad"
+[03:28:51][81.92.252.25][Bejniss] start esx_identity
+[03:31:18][81.92.252.25][Bejniss] RESTART SERVER
+[03:48:39][81.92.252.25][Bejniss] RESTART SERVER
+[03:50:15][81.92.252.25][Bejniss] start esx_identity
+[03:51:48][81.92.252.25][Bejniss] start esx_identity
+[03:52:05][81.92.252.25][Bejniss] Editing server CFG File.
+[03:52:09][81.92.252.25][Bejniss] RESTART SERVER
+[03:53:51][81.92.252.25][Bejniss] stop jsfour-register
+[03:55:57][81.92.252.25][Bejniss] RESTART SERVER
+[04:01:04][178.255.168.94][Benikjebest] RESTART SERVER
+[04:03:50][81.92.252.25][Bejniss] RESTART SERVER
+[04:03:56][81.92.252.25][Bejniss] STOP SERVER
+[04:05:22][81.92.252.25][Bejniss] START SERVER
+[04:05:35][81.92.252.25][Bejniss] start esx_identity
+[04:09:16][81.92.252.25][Bejniss] RESTART SERVER
+[04:10:22][81.92.252.25][Bejniss] esx_civliferp_identity
+[04:10:29][81.92.252.25][Bejniss] start esx_civliferp_identity
+[04:10:58][81.92.252.25][Bejniss] start esx_civliferp_identity
+[04:11:26][81.92.252.25][Bejniss] refresh
+[04:11:30][81.92.252.25][Bejniss] start esx-civliferp-identity
+[04:12:40][81.92.252.25][Bejniss] refreash
+[04:12:42][81.92.252.25][Bejniss] refresh
+[04:12:53][81.92.252.25][Bejniss] start esx-identity
+[04:12:59][81.92.252.25][Bejniss] start esx_identity
+[04:13:44][81.92.252.25][Bejniss] RESTART SERVER
+[04:16:55][81.92.252.25][Bejniss] RESTART SERVER
+[04:19:10][178.255.168.94][Benikjebest] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 5/21/2020, 4:21:45 AM
+================================================================
+[04:21:55][81.92.252.25][Bejniss] START SERVER
+[04:24:43][81.92.252.25][Bejniss] RESTART SERVER
+[04:24:49][81.92.252.25][Bejniss] STOP SERVER
+[04:24:56][81.92.252.25][Bejniss] START SERVER
+[04:24:59][81.92.252.25][Bejniss] STOP SERVER
+[04:28:29][81.92.252.25][Bejniss] START SERVER
+[04:43:52][81.92.252.25][Bejniss] Editing server CFG File.
+[04:43:59][81.92.252.25][Bejniss] Editing server CFG File.
+[04:44:06][81.92.252.25][Bejniss] RESTART SERVER
+[04:45:28][81.92.252.25][Bejniss] start esx_identity
+[04:46:32][81.92.252.25][Bejniss] RESTART SERVER
+[04:46:42][81.92.252.25][Bejniss] STOP SERVER
+[04:46:44][81.92.252.25][Bejniss] START SERVER
+[04:46:48][81.92.252.25][Bejniss] STOP SERVER
+[04:46:50][81.92.252.25][Bejniss] START SERVER
+[04:46:53][81.92.252.25][Bejniss] STOP SERVER
+[04:46:55][81.92.252.25][Bejniss] START SERVER
+[04:47:45][81.92.252.25][Bejniss] RESTART SERVER
+[04:51:37][81.92.252.25][Bejniss] RESTART SERVER
+[04:55:58][81.92.252.25][Bejniss] Editing server CFG File.
+[04:56:01][81.92.252.25][Bejniss] RESTART SERVER
+[05:02:52][178.255.168.94][Benikjebest] RESTART SERVER
+[05:08:01][178.255.168.94][Benikjebest] RESTART SERVER
+[05:10:29][178.255.168.94][Benikjebest] start esx_rpchat
+[05:14:28][178.255.168.94][Benikjebest] RESTART SERVER
+[05:16:01][81.92.252.25][Bejniss] Editing server CFG File.
+[05:20:48][178.255.168.94][Benikjebest] RESTART SERVER
+[05:23:53][178.255.168.94][Benikjebest] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 5/21/2020, 5:27:07 AM
+================================================================
+[05:27:38][178.255.168.94][Benikjebest] START SERVER
+[05:32:37][178.255.168.94][Benikjebest] RESTART SERVER
+[05:34:39][81.92.252.25][Bejniss] Editing server CFG File.
+[05:34:57][178.255.168.94][Benikjebest] RESTART SERVER
+[05:34:58][81.92.252.25][Bejniss] RESTART SERVER
+[05:37:23][178.255.168.94][Benikjebest] RESTART SERVER
+[05:37:55][178.255.168.94][Benikjebest] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 5/21/2020, 5:38:32 AM
+================================================================
+
+================================================================
+======== txAdmin starting - 5/21/2020, 5:40:35 AM
+================================================================
+[05:41:03][81.92.252.25][Bejniss] START SERVER
+[05:44:42][81.92.252.25][Bejniss] start esx_scoreboard
+[05:45:22][81.92.252.25][Bejniss] start esx_scoreboard
+[05:45:30][81.92.252.25][Bejniss] refresh
+[05:45:33][81.92.252.25][Bejniss] esx_scoreboard
+[05:45:37][81.92.252.25][Bejniss] start esx_scoreboard
+[05:46:09][81.92.252.25][Bejniss] RESTART SERVER
+[05:48:16][178.255.168.94][Benikjebest] RESTART SERVER
+[05:50:53][178.255.168.94][Benikjebest] RESTART SERVER
+[05:53:25][81.92.252.25][Bejniss] Editing server CFG File.
+[05:53:29][81.92.252.25][Bejniss] RESTART SERVER
+[05:57:34][178.255.168.94][Benikjebest] RESTART SERVER
+[05:59:27][178.255.168.94][Benikjebest] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 5/21/2020, 6:00:06 AM
+================================================================
+
+================================================================
+======== txAdmin starting - 5/21/2020, 6:03:29 AM
+================================================================
+[06:03:41][81.92.252.25][Bejniss] START SERVER
+[06:07:06][178.255.168.94][Benikjebest] RESTART SERVER
+[06:08:35][81.92.252.25][Bejniss] Editing server CFG File.
+[06:08:45][178.255.168.94][Benikjebest] RESTART SERVER
+[06:09:00][81.92.252.25][Bejniss] Editing server CFG File.
+[06:10:44][178.255.168.94][Benikjebest] RESTART SERVER
+[06:10:58][81.92.252.25][Bejniss] Editing server CFG File.
+[06:11:23][178.255.168.94][Benikjebest] RESTART SERVER
+[06:13:50][81.92.252.25][Bejniss] Editing server CFG File.
+[06:16:31][81.92.252.25][Bejniss] RESTART SERVER
+[06:17:25][81.92.252.25][Bejniss] Editing server CFG File.
+[06:17:30][81.92.252.25][Bejniss] RESTART SERVER
+[06:19:37][81.92.252.25][Bejniss] Editing server CFG File.
+[06:19:41][81.92.252.25][Bejniss] RESTART SERVER
+[06:21:51][81.92.252.25][Bejniss] Editing server CFG File.
+[06:22:43][81.92.252.25][Bejniss] Editing server CFG File.
+[06:22:46][81.92.252.25][Bejniss] RESTART SERVER
+[06:25:35][178.255.168.94][Benikjebest] start esx_rpchat
+[06:26:17][178.255.168.94][Benikjebest] RESTART SERVER
+[06:29:32][178.255.168.94][Benikjebest] stop chat
+[06:31:18][178.255.168.94][Benikjebest] RESTART SERVER
+[06:32:09][81.92.252.25][Bejniss] Editing server CFG File.
+[06:32:57][178.255.168.94][Benikjebest] start chat
+[06:33:10][178.255.168.94][Benikjebest] RESTART SERVER
+[06:33:39][81.92.252.25][Bejniss] Editing server CFG File.
+[06:34:10][178.255.168.94][Benikjebest] RESTART SERVER
+[06:37:12][178.255.168.94][Benikjebest] RESTART SERVER
+[06:37:24][81.92.252.25][Bejniss] Editing server CFG File.
+[06:37:31][81.92.252.25][Bejniss] RESTART SERVER
+[06:39:33][81.92.252.25][Bejniss] Editing server CFG File.
+[06:39:36][178.255.168.94][Benikjebest] RESTART SERVER
+[06:41:16][81.92.252.25][Bejniss] refresh
+[06:42:22][178.255.168.94][Benikjebest] RESTART SERVER
+[06:44:32][178.255.168.94][Benikjebest] RESTART SERVER
+[06:50:12][178.255.168.94][Benikjebest] RESTART SERVER
+[06:53:01][81.92.252.25][Bejniss] setgroup superadmin 1
+[06:53:13][178.255.168.94][Benikjebest] RESTART SERVER
+[06:53:31][81.92.252.25][Bejniss] Editing server CFG File.
+[06:53:57][178.255.168.94][Benikjebest] RESTART SERVER
+[06:56:35][178.255.168.94][Benikjebest] RESTART SERVER
+[06:58:15][81.92.252.25][Bejniss] Editing server CFG File.
+[06:59:32][81.92.252.25][Bejniss] RESTART SERVER
+[07:03:52][178.255.168.94][Benikjebest] restart esx_rpchat
+[07:07:03][81.92.252.25][Bejniss] Editing server CFG File.
+[07:07:38][81.92.252.25][Bejniss] Editing server CFG File.
+[07:07:38][178.255.168.94][Benikjebest] RESTART SERVER
+[07:11:38][81.92.252.25][Bejniss] RESTART SERVER
+[07:13:54][81.92.252.25][Bejniss] Editing server CFG File.
+[07:13:59][81.92.252.25][Bejniss] RESTART SERVER
+[07:20:27][178.255.168.94][Benikjebest] RESTART SERVER
+[07:20:53][178.255.168.94][Benikjebest] RESTART SERVER
+[07:23:08][178.255.168.94][Benikjebest] RESTART SERVER
+[07:23:25][81.92.252.25][Bejniss] STOP SERVER
+[07:23:27][81.92.252.25][Bejniss] START SERVER
+[07:23:31][178.255.168.94][Benikjebest] RESTART SERVER
+[07:24:48][81.92.252.25][Bejniss] Editing server CFG File.
+[07:25:16][81.92.252.25][Bejniss] RESTART SERVER
+[07:25:36][81.92.252.25][Bejniss] RESTART SERVER
+[07:35:37][178.255.168.94][Benikjebest] RESTART SERVER
+[07:38:19][178.255.168.94][Benikjebest] start esx_rpchat
+[07:42:01][178.255.168.94][Benikjebest] RESTART SERVER
+[07:42:33][178.255.168.94][Benikjebest] RESTART SERVER
+[07:47:51][178.255.168.94][Benikjebest] RESTART SERVER
+[07:50:34][178.255.168.94][Benikjebest] STOP SERVER
+[07:51:40][178.255.168.94][Benikjebest] START SERVER
+[08:01:39][178.255.168.94][Benikjebest] RESTART SERVER
+[08:04:46][178.255.168.94][Benikjebest] RESTART SERVER
+[08:11:36][178.255.168.94][Benikjebest] RESTART SERVER
+[08:14:19][178.255.168.94][Benikjebest] STOP SERVER
+[08:33:08][178.255.168.94][Benikjebest] START SERVER
+[08:34:50][178.255.168.94][Benikjebest] STOP SERVER
+[08:44:47][178.255.168.94][Benikjebest] START SERVER
+[08:47:48][MONITOR] Restarting server (server crash detected).
+[08:50:52][178.255.168.94][Benikjebest] RESTART SERVER
+[08:54:45][178.255.168.94][Benikjebest] stop tokovoip_script
+[08:57:25][178.255.168.94][Benikjebest] RESTART SERVER
+[09:00:11][178.255.168.94][Benikjebest] RESTART SERVER
+[09:06:38][178.255.168.94][Benikjebest] RESTART SERVER
+[09:20:29][178.255.168.94][Benikjebest] RESTART SERVER
+[09:33:32][178.255.168.94][Benikjebest] RESTART SERVER
+[09:37:20][178.255.168.94][Benikjebest] refresh
+[09:37:25][178.255.168.94][Benikjebest] start vSync
+[09:40:08][178.255.168.94][Benikjebest] RESTART SERVER
+[09:40:59][81.92.252.25][Bejniss] start wnews
+[09:41:08][81.92.252.25][Bejniss] start cityhall
+[09:41:18][81.92.252.25][Bejniss] stop wnews
+[09:49:12][81.92.252.25][Bejniss] Editing server CFG File.
+[10:12:35][81.92.252.25][Bejniss] start cityhall
+[10:12:39][81.92.252.25][Bejniss] refresh
+[10:12:46][81.92.252.25][Bejniss] start cityhall
+[10:13:14][81.92.252.25][Bejniss] start wnews
+[10:15:03][178.255.168.94][Benikjebest] RESTART SERVER
+[10:15:14][81.92.252.25][Bejniss] start cityhall
+[10:15:20][81.92.252.25][Bejniss] start cityhall
+[10:15:27][81.92.252.25][Bejniss] start wnews
+[10:15:34][81.92.252.25][Bejniss] start wnews
+[10:39:19][81.92.252.25][Bejniss] refresh
+[10:39:24][81.92.252.25][Bejniss] start courthouse
+[10:54:47][81.92.252.25][Bejniss] refresh
+[10:54:58][81.92.252.25][Bejniss] restart new_banking
+[10:55:07][81.92.252.25][Bejniss] start esx_invest
+[10:55:47][81.92.252.25][Bejniss] restart esx_invest
+[11:28:23][81.92.252.25][Bejniss] stop tokovoip_script
+[11:28:47][81.92.252.25][Bejniss] start mumble-voip
+[11:31:48][81.92.252.25][Bejniss] stop esx_jobs
+[11:32:14][81.92.252.25][Bejniss] start esx_jobs
+[11:32:20][81.92.252.25][Bejniss] stop esx_joblisting
+[11:36:20][81.92.252.25][Bejniss] restart  esx_joblisting
+[11:36:50][81.92.252.25][Bejniss] restart esx_joblisting
+[11:51:19][][Bejniss] Editing server CFG File.
+[11:51:22][81.92.252.25][Bejniss] Editing server CFG File.
+[12:19:18][81.92.252.25][Bejniss] Editing server CFG File.
+[12:19:25][81.92.252.25][Bejniss] RESTART SERVER
+[12:21:33][81.92.252.25][Bejniss] RESTART SERVER
+[12:37:50][81.92.252.25][Bejniss] start MDT System
+[12:38:00][81.92.252.25][Bejniss] restart MDT System
+[12:38:55][81.92.252.25][Bejniss] refresh
+[12:38:58][81.92.252.25][Bejniss] start mdt
+[12:53:05][81.92.252.25][Bejniss] Editing server CFG File.
+[12:53:20][81.92.252.25][Bejniss] Editing server CFG File.
+[12:53:25][81.92.252.25][Bejniss] RESTART SERVER
+[13:02:32][81.92.252.25][Bejniss] RESTART SERVER
+[13:03:22][81.92.252.25][Bejniss] /set
+[13:03:26][81.92.252.25][Bejniss] /setjob
+[13:03:30][81.92.252.25][Bejniss] setjob
+[13:04:47][81.92.252.25][Bejniss] restart mdt
+[13:06:20][81.92.252.25][Bejniss] restart mdt
+[13:16:20][81.92.252.25][Bejniss] RESTART SERVER
+[13:23:06][81.92.252.25][Bejniss] chardl
+[13:23:13][81.92.252.25][Bejniss] start esx_identity
+[13:23:20][81.92.252.25][Bejniss] restart esx_identity
+[13:25:14][81.92.252.25][Bejniss] restart esx_identity
+[13:29:56][81.92.252.25][Bejniss] RESTART SERVER
+[13:38:37][81.92.252.25][Bejniss] restart mdt
+[00:47:51][81.92.252.25][Bejniss] Editing server CFG File.
+[01:02:51][81.92.252.25][Bejniss] RESTART SERVER
+[02:03:13][81.92.252.25][Bejniss] RESTART SERVER
+[02:04:51][81.92.252.25][Bejniss] RESTART SERVER
+[03:47:25][81.92.252.25][Bejniss] refresh
+[03:47:32][81.92.252.25][Bejniss] start esx_invest
+[08:30:30][81.92.252.25][Bejniss] refresh
+[08:33:42][81.92.252.25][Bejniss] RESTART SERVER
+[09:00:45][81.92.252.25][Bejniss] RESTART SERVER
+[10:17:15][81.92.252.25][Bejniss] refresh
+[10:17:19][81.92.252.25][Bejniss] start 911
+[11:34:43][178.255.168.94][Benikjebest] RESTART SERVER
+[11:37:32][178.255.168.94][Benikjebest] RESTART SERVER
+[11:38:20][178.255.168.94][Benikjebest] RESTART SERVER
+[11:39:27][178.255.168.94][Benikjebest] RESTART SERVER
+[11:52:59][178.255.168.94][Benikjebest] RESTART SERVER
+[12:00:06][178.255.168.94][Benikjebest] RESTART SERVER
+[12:08:52][81.92.252.25][Bejniss] Editing server CFG File.
+[12:08:59][81.92.252.25][Bejniss] RESTART SERVER
+[12:14:48][178.255.168.94][Benikjebest] RESTART SERVER
+[12:15:37][81.92.252.25][Bejniss] Editing server CFG File.
+[12:16:41][81.92.252.25][Bejniss] restart esx_rpchat
+[12:18:19][81.92.252.25][Bejniss] stop chat
+[12:18:25][81.92.252.25][Bejniss] restart esx_rpchat
+[12:19:51][81.92.252.25][Bejniss] restart gc_phone
+[12:20:03][81.92.252.25][Bejniss] restart gcphone
+[12:20:10][178.255.168.94][Benikjebest] RESTART SERVER
+[12:31:38][178.255.168.94][Benikjebest] RESTART SERVER
+[12:37:18][81.92.252.25][Bejniss] RESTART SERVER
+[12:39:04][81.92.252.25][Bejniss] stop mythic_notify
+[12:44:58][178.255.168.94][Benikjebest] giveitem 1 sim 1
+[13:04:26][81.92.252.25][Bejniss] restart gcphone
+[13:04:29][81.92.252.25][Bejniss] start phone
+[13:04:33][81.92.252.25][Bejniss] refresh
+[13:04:37][81.92.252.25][Bejniss] start phone
+[13:04:47][81.92.252.25][Bejniss] restart gcphone
+[13:04:50][81.92.252.25][Bejniss] start phone
+[13:04:55][81.92.252.25][Bejniss] restart gcphone
+[13:05:00][81.92.252.25][Bejniss] restart phone
+[13:05:15][81.92.252.25][Bejniss] RESTART SERVER
+[13:06:59][81.92.252.25][Bejniss] stop screenshot-basic
+[13:07:56][81.92.252.25][Bejniss] stop hypnonema
+[13:08:11][81.92.252.25][Bejniss] Editing server CFG File.
+[13:08:17][81.92.252.25][Bejniss] RESTART SERVER
+[13:29:00][178.255.168.94][Benikjebest] STOP SERVER
+[15:57:43][178.255.168.94][Benikjebest] START SERVER
+[16:14:39][178.255.168.94][Benikjebest] STOP SERVER
+[16:15:01][178.255.168.94][Benikjebest] START SERVER
+[16:16:51][178.255.168.94][Benikjebest] RESTART SERVER
+[16:20:12][178.255.168.94][Benikjebest] STOP SERVER
+[16:23:07][178.255.168.94][Benikjebest] START SERVER
+[16:25:05][178.255.168.94][Benikjebest] STOP SERVER
+[16:26:22][178.255.168.94][Benikjebest] START SERVER
+[16:30:01][178.255.168.94][Benikjebest] RESTART SERVER
+[16:35:00][178.255.168.94][Benikjebest] RESTART SERVER
+[12:08:18][81.92.252.25][Bejniss] stop gcphone
+[12:08:23][81.92.252.25][Bejniss] restart esx_policejob
+[12:10:31][81.92.252.25][Bejniss] start gcphone
+[12:40:29][81.92.252.25][Bejniss] refresh
+[12:40:52][81.92.252.25][Bejniss] start policeels
+[12:42:13][81.92.252.25][Bejniss] start policecars
+[12:42:54][81.92.252.25][Bejniss] Editing server CFG File.
+
+================================================================
+======== txAdmin starting - 5/23/2020, 12:50:29 PM
+================================================================
+[12:51:50][81.92.252.25][Bejniss] START SERVER
+[12:54:50][MONITOR] Restarting server (server crash detected).
+[12:56:02][81.92.252.25][Bejniss] stop screenshot-basic
+[12:56:53][81.92.252.25][Bejniss] refresh
+[12:58:54][81.92.252.25][Bejniss] restart policecars
+[13:05:07][81.92.252.25][Bejniss] stop policeels
+[13:05:12][81.92.252.25][Bejniss] restart policecars
+[13:18:02][81.92.252.25][Bejniss] restart mdt
+[13:18:22][81.92.252.25][Bejniss] RESTART SERVER
+[13:19:10][81.92.252.25][Bejniss] refresh
+[13:25:50][81.92.252.25][Bejniss] restart mdt
+[13:27:55][81.92.252.25][Bejniss] restart mdz
+[13:28:00][81.92.252.25][Bejniss] restart mdt
+[13:29:04][81.92.252.25][Bejniss] RESTART SERVER
+[13:32:49][81.92.252.25][Bejniss] start mdt
+[13:32:53][81.92.252.25][Bejniss] restart mdt
+[14:15:08][81.92.252.25][Bejniss] RESTART SERVER
+[14:27:53][81.92.252.25][Bejniss] RESTART SERVER
+[03:03:19][81.92.252.25][Bejniss] refresh
+[03:03:29][81.92.252.25][Bejniss] start esx_bike-rental
+[03:29:05][81.92.252.25][Bejniss] stop "el_bwh"
+[03:29:11][81.92.252.25][Bejniss] stop "es_admincmds"
+[03:29:14][81.92.252.25][Bejniss] stop "es_camera"
+[03:29:20][81.92.252.25][Bejniss] stop "ChangingRooms"
+[03:29:24][81.92.252.25][Bejniss] stop "Lenzh_chopshop"
+[03:29:30][81.92.252.25][Bejniss] stop "esx-qalle-sellvehicles"
+[03:29:36][81.92.252.25][Bejniss] stop "esx_AdvancedFishing"
+[03:29:42][81.92.252.25][Bejniss] stop "esx_advert"
+[03:29:59][81.92.252.25][Bejniss] stop "esx_outlawalert"
+[03:30:46][81.92.252.25][Bejniss] ensure "esx_outlawalert"
+[03:31:38][81.92.252.25][Bejniss] stop "esx_outlawalert"
+[03:32:06][81.92.252.25][Bejniss] stop "RIBspiceden"
+[03:33:43][81.92.252.25][Bejniss] RESTART SERVER
+[03:34:32][81.92.252.25][Bejniss] stop "rib_pack"
+[03:34:40][81.92.252.25][Bejniss] stop "RIBspiceden"
+[03:34:51][81.92.252.25][Bejniss] stop "ribbench"
+[03:34:57][81.92.252.25][Bejniss] stop "ribcardealer"
+[03:35:06][81.92.252.25][Bejniss] stop "ribrig"
+[03:35:13][81.92.252.25][Bejniss] stop "ribfed"
+[03:35:20][81.92.252.25][Bejniss] stop "ribjail"
+[03:35:28][81.92.252.25][Bejniss] stop "ribpd"
+[03:37:58][81.92.252.25][Bejniss] stop "mythic_notify"
+[03:38:05][81.92.252.25][Bejniss] stop "pNotify"
+[03:38:24][81.92.252.25][Bejniss] stop "idoverhead"
+[03:42:27][81.92.252.25][Bejniss] STOP SERVER
+[03:45:04][81.92.252.25][Bejniss] START SERVER
+[04:36:36][81.92.252.25][Bejniss] stop "el_bwh"
+[04:36:37][81.92.252.25][Bejniss] stop "es_admincmds"
+[04:36:38][81.92.252.25][Bejniss] stop "es_camera"
+[04:36:48][81.92.252.25][Bejniss] stop "esx_addons_gcphone"
+[04:36:48][81.92.252.25][Bejniss] stop "gcphone"
+[04:36:49][81.92.252.25][Bejniss] stop "phone"
+[04:36:57][81.92.252.25][Bejniss] stop "RIBspiceden"
+[04:36:58][81.92.252.25][Bejniss] stop "SLBK11_MissionRow"
+[04:36:58][81.92.252.25][Bejniss] stop "ballas"
+[04:36:59][81.92.252.25][Bejniss] stop "banner_anim"
+[04:37:07][81.92.252.25][Bejniss] stop "banner_anim"
+[04:37:08][81.92.252.25][Bejniss] stop "bennysmap"
+[04:37:08][81.92.252.25][Bejniss] stop "bmamas"
+[04:37:08][81.92.252.25][Bejniss] stop "chopshop"
+[04:37:09][81.92.252.25][Bejniss] stop "cinema"
+[04:37:09][81.92.252.25][Bejniss] stop "davetest"
+[04:37:15][81.92.252.25][Bejniss] stop "cinema"
+[04:37:16][81.92.252.25][Bejniss] stop "davetest"
+[04:37:16][81.92.252.25][Bejniss] stop "davetest2"
+[04:37:17][81.92.252.25][Bejniss] stop "festival"
+[04:37:17][81.92.252.25][Bejniss] stop "jewel"
+[04:37:24][81.92.252.25][Bejniss] stop "jewel"
+[04:37:24][81.92.252.25][Bejniss] stop "legionsign"
+[04:37:24][81.92.252.25][Bejniss] stop "marabunta"
+[04:37:25][81.92.252.25][Bejniss] stop "mceys"
+[04:37:25][81.92.252.25][Bejniss] stop "missionrowgates"
+[04:37:38][81.92.252.25][Bejniss] stop "missionrowgates"
+[04:37:38][81.92.252.25][Bejniss] stop "nobarrier"
+[04:37:38][81.92.252.25][Bejniss] stop "pablito_restauracja"
+[04:37:39][81.92.252.25][Bejniss] stop "pawn"
+[04:37:47][81.92.252.25][Bejniss] stop "pablito_taco"
+[04:37:47][81.92.252.25][Bejniss] stop "pawn"
+[04:37:48][81.92.252.25][Bejniss] stop "pillboxup-mlo"
+[04:37:48][81.92.252.25][Bejniss] stop "ribbench"
+[04:37:49][81.92.252.25][Bejniss] stop "ribcardealer"
+[04:42:16][81.92.252.25][Bejniss] stop "ribcardealer"
+[04:42:16][81.92.252.25][Bejniss] stop "ribfed"
+[04:42:17][81.92.252.25][Bejniss] stop "ribjail"
+[04:42:17][81.92.252.25][Bejniss] stop "ribpd"
+[04:42:18][81.92.252.25][Bejniss] stop "ribrig"
+[04:42:23][81.92.252.25][Bejniss] stop "ribrig"
+[04:42:23][81.92.252.25][Bejniss] stop "secret"
+[04:42:24][81.92.252.25][Bejniss] stop "taxioffice"
+[04:42:24][81.92.252.25][Bejniss] stop "usedcarsmap"
+[04:42:25][81.92.252.25][Bejniss] stop "vine"
+[04:42:32][81.92.252.25][Bejniss] stop "hypnonema"
+[04:42:32][81.92.252.25][Bejniss] stop "vMenu"
+[04:42:32][81.92.252.25][Bejniss] stop "async"
+[04:42:33][81.92.252.25][Bejniss] stop "cron"
+[04:42:56][81.92.252.25][Bejniss] stop "esplugin_mysql"
+[04:42:57][81.92.252.25][Bejniss] stop "essentialmode"
+[04:42:58][81.92.252.25][Bejniss] stop "esx_datastore"
+[04:43:12][81.92.252.25][Bejniss] stop "pvp"
+[04:43:13][81.92.252.25][Bejniss] stop "skinchanger"
+[04:43:44][81.92.252.25][Bejniss] stop "PoliceVehiclesWeaponDeleter"
+[04:43:44][81.92.252.25][Bejniss] stop "gd_airport_ai_begone"
+[04:43:44][81.92.252.25][Bejniss] stop "norewards"
+[04:43:53][81.92.252.25][Bejniss] stop "ambulance"
+[04:43:54][81.92.252.25][Bejniss] stop "bison"
+[04:43:54][81.92.252.25][Bejniss] stop "caddy"
+[04:43:54][81.92.252.25][Bejniss] stop "copinsig"
+[04:43:55][81.92.252.25][Bejniss] stop "copvrs"
+[04:43:55][81.92.252.25][Bejniss] stop "copx5"
+[04:44:05][81.92.252.25][Bejniss] stop "copx5"
+[04:44:05][81.92.252.25][Bejniss] stop "jack_pack"
+[04:44:06][81.92.252.25][Bejniss] stop "jack_pack2"
+[04:44:06][81.92.252.25][Bejniss] stop "jack_pack3"
+[04:44:06][81.92.252.25][Bejniss] stop "jack_pack4"
+[04:44:07][81.92.252.25][Bejniss] stop "jack_pack5"
+[04:44:14][81.92.252.25][Bejniss] stop "jack_pack5"
+[04:44:14][81.92.252.25][Bejniss] stop "nhs"
+[04:44:15][81.92.252.25][Bejniss] stop "oz_cars"
+[04:44:15][81.92.252.25][Bejniss] stop "police12"
+[04:44:16][81.92.252.25][Bejniss] stop "police2"
+[04:44:50][81.92.252.25][Bejniss] stop "police2"
+[04:44:50][81.92.252.25][Bejniss] stop "police3"
+[04:44:50][81.92.252.25][Bejniss] stop "rib_pack"
+[04:44:51][81.92.252.25][Bejniss] stop "rs3"
+[04:44:51][81.92.252.25][Bejniss] stop "speedycab"
+[04:46:08][81.92.252.25][Bejniss] stop "mysql-async"
+[04:46:09][81.92.252.25][Bejniss] stop "fxmigrant"
+[04:46:16][81.92.252.25][Bejniss] stop "esx_Krowa"
+[04:46:16][81.92.252.25][Bejniss] stop "esx_SellGold"
+[04:46:17][81.92.252.25][Bejniss] stop "esx_barbershop"
+[04:46:18][81.92.252.25][Bejniss] stop "esx_bennys"
+[04:46:23][81.92.252.25][Bejniss] stop "ChangingRooms"
+[04:46:23][81.92.252.25][Bejniss] stop "Lenzh_chopshop"
+[04:46:23][81.92.252.25][Bejniss] stop "esx-qalle-sellvehicles"
+[04:46:24][81.92.252.25][Bejniss] stop "esx_AdvancedFishing"
+[04:46:28][81.92.252.25][Bejniss] stop "esx_Armour"
+[04:46:34][81.92.252.25][Bejniss] stop "esx_carwash"
+[04:46:34][81.92.252.25][Bejniss] stop "esx_criminalrecords"
+[04:46:35][81.92.252.25][Bejniss] stop "esx_detector"
+[04:46:35][81.92.252.25][Bejniss] stop "esx_detector_prison"
+[04:47:48][81.92.252.25][Bejniss] stop "esx_dmvschool"
+[04:47:49][81.92.252.25][Bejniss] stop "esx_drp_garage"
+[04:47:49][81.92.252.25][Bejniss] stop "esx_drugs"
+[04:47:50][81.92.252.25][Bejniss] stop "esx_duty"
+[04:47:55][81.92.252.25][Bejniss] stop "esx_duty"
+[04:47:55][81.92.252.25][Bejniss] stop "esx_extraitems"
+[04:47:55][81.92.252.25][Bejniss] stop "esx_holdup"
+[04:48:00][81.92.252.25][Bejniss] stop "esx_ktackle"
+[04:48:00][81.92.252.25][Bejniss] stop "esx_lscustom"
+[04:48:01][81.92.252.25][Bejniss] stop "esx_mafia"
+[04:48:01][81.92.252.25][Bejniss] stop "esx_mechanicjob"
+[04:48:02][81.92.252.25][Bejniss] stop "esx_med"
+[04:48:11][81.92.252.25][Bejniss] stop "esx_moneywash"
+[04:48:12][81.92.252.25][Bejniss] stop "esx_outlawalert"
+[04:48:12][81.92.252.25][Bejniss] stop "esx_plasticsurgery"
+[04:48:18][81.92.252.25][Bejniss] stop "outfit"
+[04:48:19][81.92.252.25][Bejniss] stop "kr_pushvehicle"
+[04:48:19][81.92.252.25][Bejniss] stop "esx_vinerob"
+[04:48:24][81.92.252.25][Bejniss] stop "esx_yacht"
+[04:48:25][81.92.252.25][Bejniss] stop "esx_taxijob"
+[04:48:31][81.92.252.25][Bejniss] stop "esx_qallejail"
+[04:48:31][81.92.252.25][Bejniss] stop "esx_ruskiarrest"
+[04:48:32][81.92.252.25][Bejniss] stop "esx_scoreboard"
+[04:48:32][81.92.252.25][Bejniss] stop "esx_shops"
+[04:48:36][81.92.252.25][Bejniss] stop "esx_sit"
+[04:48:37][81.92.252.25][Bejniss] stop "esx_status"
+[04:48:37][81.92.252.25][Bejniss] stop "esx_tattoosShops"
+[04:48:38][81.92.252.25][Bejniss] stop "esx_thief"
+[04:48:42][81.92.252.25][Bejniss] stop "esx_thief"
+[04:48:42][81.92.252.25][Bejniss] stop "esx_tpm"
+[04:49:28][81.92.252.25][Bejniss] stop "esx_license"
+[04:49:28][81.92.252.25][Bejniss] stop "esx_skin"
+[04:49:39][81.92.252.25][Bejniss] stop "Freedom"
+[04:49:39][81.92.252.25][Bejniss] stop "coordsaver"
+[04:49:40][81.92.252.25][Bejniss] stop "locking"
+[04:49:40][81.92.252.25][Bejniss] stop "esx_inventoryhud"
+[04:49:48][81.92.252.25][Bejniss] stop "esx_inventoryhud"
+[04:49:49][81.92.252.25][Bejniss] stop "bob74_ipl"
+[04:49:59][81.92.252.25][Bejniss] stop "cityhall"
+[04:50:00][81.92.252.25][Bejniss] stop "vespucci"
+[04:50:00][81.92.252.25][Bejniss] stop "wnews"
+[04:50:15][81.92.252.25][Bejniss] stop "mythic_notify"
+[04:50:15][81.92.252.25][Bejniss] stop "pNotify"
+[04:51:12][81.92.252.25][Bejniss] stop "policecars"
+[04:51:13][81.92.252.25][Bejniss] stop "mumble-voip"
+[04:51:13][81.92.252.25][Bejniss] stop "freedom_ls"
+[04:52:38][81.92.252.25][Bejniss] stop "progressBars"
+[04:52:38][81.92.252.25][Bejniss] stop "t0sic_loadingbar"
+[04:52:39][81.92.252.25][Bejniss] stop "threatbar"
+[04:52:54][81.92.252.25][Bejniss] stop "time"
+[04:52:55][81.92.252.25][Bejniss] stop "togglehud"
+[04:52:56][81.92.252.25][Bejniss] stop "carhud"
+[04:53:04][81.92.252.25][Bejniss] stop "clientmanager"
+[04:53:04][81.92.252.25][Bejniss] stop "carhud"
+[04:53:05][81.92.252.25][Bejniss] stop "es_ui"
+[04:54:37][81.92.252.25][Bejniss] ensure "mumble-voip"
+[04:55:13][81.92.252.25][Bejniss] RESTART SERVER
+[04:58:16][MONITOR] Restarting server (server crash detected).
+[04:59:48][81.92.252.25][Bejniss] stop "carhud"
+[04:59:49][81.92.252.25][Bejniss] stop "es_ui"
+[04:59:49][81.92.252.25][Bejniss] stop "esx_menu_default"
+[04:59:49][81.92.252.25][Bejniss] stop "esx_menu_dialog"
+[04:59:50][81.92.252.25][Bejniss] stop "esx_menu_list"
+[04:59:50][81.92.252.25][Bejniss] stop "time"
+[05:00:03][81.92.252.25][Bejniss] stop "time"
+[05:00:03][81.92.252.25][Bejniss] stop "togglehud"
+[05:00:04][81.92.252.25][Bejniss] stop "clientmanager"
+[05:01:46][81.92.252.25][Bejniss] ensure "Freedoms"
+[05:02:28][81.92.252.25][Bejniss] ensure "time"
+[05:02:28][81.92.252.25][Bejniss] ensure "togglehud"
+[05:03:56][81.92.252.25][Bejniss] ensure "carhud"
+[05:03:57][81.92.252.25][Bejniss] ensure "es_ui"
+[05:04:04][81.92.252.25][Bejniss] ensure "esx_bike-rental"
+[05:04:18][81.92.252.25][Bejniss] ensure "esx_invest"
+[05:04:29][81.92.252.25][Bejniss] ensure "heli"
+[05:05:03][81.92.252.25][Bejniss] ensure "courthouse"
+[05:06:17][81.92.252.25][Bejniss] ensure "esx_menu_list"
+[05:06:18][81.92.252.25][Bejniss] ensure "esx_menu_dialog"
+[05:06:18][81.92.252.25][Bejniss] ensure "esx_menu_default"
+[05:07:49][81.92.252.25][Bejniss] ensure "chat-theme-civlifechat"
+[05:08:44][81.92.252.25][Bejniss] ensure "clientmanager"
+[05:09:57][81.92.252.25][Bejniss] stop "clientmanager"
+[05:12:21][81.92.252.25][Bejniss] RESTART SERVER
+[05:14:51][81.92.252.25][Bejniss] Editing server CFG File.
+[05:14:56][81.92.252.25][Bejniss] ensure "esx_bike-rental"
+[05:15:36][81.92.252.25][Bejniss] Editing server CFG File.
+[05:16:05][81.92.252.25][Bejniss] Editing server CFG File.
+[05:16:32][81.92.252.25][Bejniss] ensure "esx_invest"
+[05:16:46][81.92.252.25][Bejniss] ensure "heli"
+[05:16:56][81.92.252.25][Bejniss] Editing server CFG File.
+[05:54:59][81.92.252.25][Bejniss] RESTART SERVER
+[06:02:51][81.92.252.25][Bejniss] stop copx5
+[06:03:43][81.92.252.25][Bejniss] Editing server CFG File.
+[06:05:21][81.92.252.25][Bejniss] RESTART SERVER
+[06:11:58][81.92.252.25][Bejniss] RESTART SERVER
+[06:28:28][81.92.252.25][Bejniss] RESTART SERVER
+[06:30:02][81.92.252.25][Bejniss] RESTART SERVER
+[06:36:51][81.92.252.25][Bejniss] RESTART SERVER
+[06:54:40][178.255.168.94][Benikjebest] RESTART SERVER
+[07:22:09][81.92.252.25][Bejniss] revive 4
+[07:22:15][81.92.252.25][Bejniss] /revive 4
+[07:32:17][178.255.168.94][Benikjebest] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 5/24/2020, 7:37:10 AM
+================================================================
+[07:37:21][178.255.168.94][Benikjebest] START SERVER
+[07:37:42][81.92.252.25][Bejniss] RESTART SERVER
+[07:37:47][178.255.168.94][Benikjebest] RESTART SERVER
+[07:40:57][178.255.168.94][Benikjebest] RESTART SERVER
+[07:43:26][81.92.252.25][Bejniss] stop esx_whitelisted
+[07:43:31][81.92.252.25][Bejniss] stop whitelisted
+[07:43:31][178.255.168.94][Benikjebest] RESTART SERVER
+[07:44:45][178.255.168.94][Benikjebest] RESTART SERVER
+[07:44:46][81.92.252.25][Bejniss] stop esx_whitelist
+[07:44:55][81.92.252.25][Bejniss] stop esx_whitelist
+[07:45:05][81.92.252.25][Bejniss] start esx_whitelis
+[07:45:12][81.92.252.25][Bejniss] start esx_whitelist
+[07:45:23][81.92.252.25][Bejniss] start esx_whitelist
+[07:46:26][81.92.252.25][Bejniss] RESTART SERVER
+[07:46:29][178.255.168.94][Benikjebest] RESTART SERVER
+[07:46:45][178.255.168.94][Benikjebest] RESTART SERVER
+[07:50:18][178.255.168.94][Benikjebest] RESTART SERVER
+[08:01:37][81.92.252.25][Bejniss] RESTART SERVER
+[08:03:10][81.92.252.25][Bejniss] start esx_shops
+[08:03:16][81.92.252.25][Bejniss] start esx_shop
+[08:03:22][81.92.252.25][Bejniss] restart esx_shops
+[08:13:09][178.255.168.94][Benikjebest] RESTART SERVER
+[08:42:58][178.255.168.94][Benikjebest] STOP SERVER
+[08:44:40][178.255.168.94][Benikjebest] START SERVER
+[09:04:46][178.255.168.94][Benikjebest] RESTART SERVER
+[09:15:49][81.92.252.25][Bejniss] refresh
+[09:15:56][81.92.252.25][Bejniss] start esx_policemdt
+[09:19:02][81.92.252.25][Bejniss] RESTART SERVER
+[09:26:55][81.92.252.25][Bejniss] RESTART SERVER
+[09:30:51][178.255.168.94][Benikjebest] RESTART SERVER
+[09:45:04][81.92.252.25][Bejniss] RESTART SERVER
+[09:45:51][81.92.252.25][Bejniss] RESTART SERVER
+[09:46:53][MONITOR] Restarting server (server close detected).
+[09:52:27][178.255.168.94][Benikjebest] RESTART SERVER
+[10:15:10][178.255.168.94][Benikjebest] RESTART SERVER
+[10:54:57][178.255.168.94][Benikjebest] RESTART SERVER
+[10:57:59][MONITOR] Restarting server (server crash detected).
+[11:02:52][81.92.252.25][Bejniss] RESTART SERVER
+[11:10:07][178.255.168.94][Benikjebest] RESTART SERVER
+[11:11:26][178.255.168.94][Benikjebest] RESTART SERVER
+[11:18:50][178.255.168.94][Benikjebest] RESTART SERVER
+[11:21:28][178.255.168.94][Benikjebest] RESTART SERVER
+[11:27:51][81.92.252.25][Bejniss] restart esx_shops
+[11:30:48][81.92.252.25][Bejniss] RESTART SERVER
+[11:31:02][81.92.252.25][Bejniss] RESTART SERVER
+[11:31:03][81.92.252.25][Bejniss] RESTART SERVER
+[11:31:05][81.92.252.25][Bejniss] RESTART SERVER
+[11:31:22][81.92.252.25][Bejniss] RESTART SERVER
+[11:31:30][81.92.252.25][Bejniss] STOP SERVER
+[11:31:50][81.92.252.25][Bejniss] START SERVER
+[11:42:04][81.92.252.25][Bejniss] RESTART SERVER
+[11:43:10][81.92.252.25][Bejniss] start esx_shops
+[11:49:27][81.92.252.25][Bejniss] restart esx_shops
+[11:49:52][81.92.252.25][Bejniss] stop esx_shop
+[11:49:57][81.92.252.25][Bejniss] stop esx_shops
+[11:50:48][81.92.252.25][Bejniss] stop esx_shops
+[15:26:15][178.255.168.94][Benikjebest] RESTART SERVER
+[01:28:48][81.92.252.25][Bejniss] RESTART SERVER
+[01:34:14][81.92.252.25][Bejniss] STOP SERVER
+[01:34:20][81.92.252.25][Bejniss] START SERVER
+[02:09:38][81.92.252.25][Bejniss] STOP SERVER
+[02:09:40][81.92.252.25][Bejniss] START SERVER
+[02:10:52][81.92.252.25][Bejniss] start esx_vehicleshop
+[02:41:43][81.92.252.25][Bejniss] refresh
+[02:41:49][81.92.252.25][Bejniss] start esx_licensesho
+[02:41:58][81.92.252.25][Bejniss] start esx_licenseshop
+[02:42:04][81.92.252.25][Bejniss] start esx_vehicleshop
+[02:44:38][81.92.252.25][Bejniss] restart esx_weaponshops
+[02:47:07][81.92.252.25][Bejniss] RESTART SERVER
+[02:51:25][81.92.252.25][Bejniss] restart esx_vehicleshop
+[02:52:03][81.92.252.25][Bejniss] RESTART SERVER
+[02:52:38][81.92.252.25][Bejniss] RESTART SERVER
+[02:55:12][81.92.252.25][Bejniss] stop esx_vehiclesho
+[02:55:18][81.92.252.25][Bejniss] stop esx_vehicleshop
+[02:55:35][81.92.252.25][Bejniss] restart trew_hud_ui
+[02:58:55][81.92.252.25][Bejniss] RESTART SERVER
+[03:23:42][81.92.252.25][Bejniss] restart esx_vehicleshop
+[03:27:50][81.92.252.25][Bejniss] restart esx_vehicleshop
+[05:16:06][81.92.252.25][Bejniss] refresh
+[05:16:15][81.92.252.25][Bejniss] start raid_clothes
+[05:23:30][81.92.252.25][Bejniss] RESTART SERVER
+[05:26:32][MONITOR] Restarting server (server crash detected).
+[05:27:35][81.92.252.25][Bejniss] stop esx_clotheshop
+[05:27:40][81.92.252.25][Bejniss] stop changingrooms
+[05:27:46][81.92.252.25][Bejniss] stop esx_changingrooms
+[05:57:37][81.92.252.25][Bejniss] Editing server CFG File.
+[10:04:22][81.92.252.25][Bejniss] Editing server CFG File.
+[10:04:29][81.92.252.25][Bejniss] RESTART SERVER
+[10:07:18][178.255.168.94][Benikjebest] RESTART SERVER
+[10:12:12][178.255.168.94][Benikjebest] RESTART SERVER
+[10:19:45][178.255.168.94][Benikjebest] STOP SERVER
+[10:25:34][][Benikjebest] START SERVER
+
+================================================================
+======== txAdmin starting - 5/25/2020, 10:27:48 AM
+================================================================
+[10:31:54][81.92.252.25][Bejniss] START SERVER
+[10:42:28][178.255.168.94][Benikjebest] RESTART SERVER
+[10:44:47][178.255.168.94][Benikjebest] RESTART SERVER
+[10:58:03][178.255.168.94][Benikjebest] RESTART SERVER
+[11:10:02][81.92.252.25][Bejniss] MySQL.Async.execute("INSERT INTO outfits (idSteam) VALUES ('[SteamID of user or anything ID you use to identify unique player]')")
+[11:11:28][81.92.252.25][Bejniss] refresh
+[11:11:34][81.92.252.25][Bejniss] start skincreator
+[12:57:58][81.92.252.25][Bejniss] restart esx_shops
+[13:09:24][81.92.252.25][Bejniss] restart esx_shops
+[13:10:50][81.92.252.25][Bejniss] restart esx_shops
+
+================================================================
+======== txAdmin starting - 5/25/2020, 1:29:31 PM
+================================================================
+[02:37:29][81.92.252.25][Bejniss] START SERVER
+[03:28:55][178.255.168.94][Benikjebest] RESTART SERVER
+[03:40:09][178.255.168.94][Benikjebest] RESTART SERVER
+[03:43:10][MONITOR] Restarting server (server crash detected).
+[03:46:55][178.255.168.94][Benikjebest] STOP SERVER
+[03:48:41][178.255.168.94][Benikjebest] START SERVER
+
+================================================================
+======== txAdmin starting - 5/26/2020, 12:10:31 PM
+================================================================
+[12:11:21][178.255.168.94][Benikjebest] START SERVER
+[12:14:21][MONITOR] Restarting server (server crash detected).
+[12:21:29][178.255.168.94][Benikjebest] RESTART SERVER
+[12:29:14][178.255.168.94][Benikjebest] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 5/26/2020, 1:20:17 PM
+================================================================
+[03:56:15][81.92.252.25][Bejniss] Editing server CFG File.
+[03:57:23][81.92.252.25][Bejniss] START SERVER
+[03:59:22][81.92.252.25][Bejniss] stop esx_policemdt
+[04:00:19][81.92.252.25][Bejniss] start mdt
+[04:00:29][81.92.252.25][Bejniss] stop esx_policemdt
+[04:06:57][81.92.252.25][Bejniss] Editing server CFG File.
+[04:07:02][81.92.252.25][Bejniss] RESTART SERVER
+[04:11:01][81.92.252.25][Bejniss] RESTART SERVER
+[04:17:43][81.92.252.25][Bejniss] restart esx_shops
+[04:18:13][81.92.252.25][Bejniss] restart esx_shops
+[04:21:14][81.92.252.25][Bejniss] esx_vehicleshop
+[04:21:21][81.92.252.25][Bejniss] restart esx_vehicleshop
+[04:21:47][81.92.252.25][Bejniss] restart esx_shops
+[04:23:50][81.92.252.25][Bejniss] STOP SERVER
+
+================================================================
+======== txAdmin starting - 5/27/2020, 4:28:09 AM
+================================================================
+[04:28:18][81.92.252.25][Bejniss] START SERVER
+
+================================================================
+======== txAdmin starting - 5/27/2020, 4:40:25 AM
+================================================================
+[04:42:47][81.92.252.25][Bejniss] START SERVER
+[04:45:47][MONITOR] Restarting server (server crash detected).
+[04:46:45][81.92.252.25][Bejniss] Editing server CFG File.
+[04:47:37][81.92.252.25][Bejniss] Editing server CFG File.
+[04:47:41][81.92.252.25][Bejniss] RESTART SERVER
+[04:53:10][178.255.168.94][Benikjebest] RESTART SERVER
+[04:56:49][81.92.252.25][Bejniss] RESTART SERVER
+[05:03:09][178.255.168.94][Benikjebest] RESTART SERVER
+[05:24:30][178.255.168.94][Benikjebest] RESTART SERVER
+[05:25:51][178.255.168.94][Benikjebest] RESTART SERVER
+[05:29:06][81.92.252.25][Bejniss] restart esx_jb_eden_garage
+[05:31:59][81.92.252.25][Bejniss] RESTART SERVER
+[05:39:26][81.92.252.25][Bejniss] RESTART SERVER
+[05:39:38][81.92.252.25][Bejniss] RESTART SERVER
+[05:40:50][81.92.252.25][Bejniss] restart esx_jb_eden_garage
+[05:53:42][178.255.168.94][Benikjebest] RESTART SERVER
+[05:54:04][81.92.252.25][Bejniss] Editing server CFG File.
+[05:56:11][81.92.252.25][Bejniss] Editing server CFG File.
+[06:03:06][178.255.168.94][Benikjebest] RESTART SERVER
+[06:03:21][81.92.252.25][Bejniss] Editing server CFG File.
+[06:03:30][81.92.252.25][Bejniss] RESTART SERVER
+[06:06:17][81.92.252.25][Bejniss] RESTART SERVER
+[06:12:13][81.92.252.25][Bejniss] RESTART SERVER
+[06:12:18][178.255.168.94][Benikjebest] RESTART SERVER
+[06:15:02][81.92.252.25][Bejniss] RESTART SERVER
+[06:19:54][178.255.168.94][Benikjebest] RESTART SERVER
+[06:21:42][178.255.168.94][Benikjebest] RESTART SERVER
+[06:21:58][178.255.168.94][Benikjebest] RESTART SERVER
+[06:22:09][81.92.252.25][Bejniss] RESTART SERVER
+[06:30:43][81.92.252.25][Bejniss] restart esx_vehicleshop
+[06:31:01][81.92.252.25][Bejniss] start esx_vehicleshop
+[06:31:02][81.92.252.25][Bejniss] 
+[06:31:08][81.92.252.25][Bejniss] restart esx_vehicleshop
+[06:32:04][81.92.252.25][Bejniss] restart esx_vehicleshop
+[06:34:12][81.92.252.25][Bejniss] restart esx_advancedgarage
+[06:36:02][81.92.252.25][Bejniss] RESTART SERVER
